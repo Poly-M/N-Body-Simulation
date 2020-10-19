@@ -476,11 +476,7 @@ void write_positions() {
 
    // Create a file and output
    std::ofstream file;
-<<<<<<< HEAD
    file.open("positions.dat");
-=======
-   file.open("positions.dat", "w");
->>>>>>> df8504a9d9197f70c2363016115eac1a04c12e32
    
    int i;
    for (i = 0; i < N; i++) {
