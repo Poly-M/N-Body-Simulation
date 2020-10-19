@@ -1,4 +1,5 @@
 // Prashant Code
+// Credit goes to github.com/prashantmishra/n_body_mpi
 
 #include <stdio.h>
 #include <stdlib.h>
